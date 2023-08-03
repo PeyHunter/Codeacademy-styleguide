@@ -5,10 +5,34 @@ body {
 h2 {
     font-family: 'Montserrat',
         sans-serif;
-        font-weight: 100;
-    color: rgb(188, 217, 252);
-    font-size: 50px;
-    
+        font-weight: bold;
+    color: #471323;
+    font-size: 50px;    
+}
+
+.h1 {
+    font-family: 'Grenze Gotisch',
+            cursive;
+        font-weight: medium;
+        font-size: 60px;
+        margin: 0;
+        color:#471323
+}
+
+.h2 {
+    font-family: 'Grenze Gotisch',
+            cursive;
+        font-weight: medium;
+        font-size: 40px;
+        margin: 0px;
+}
+
+.p {
+    font-family: 'Montserrat',
+            sans-serif;
+            font-size: 15px;
+            display: flex;
+            margin-right: 50%
 }
 
 .background-image h1 {
@@ -55,80 +79,87 @@ h2 {
     width: 250px;
     height: 250px;
     background-color: #CEB992;
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 50%;
     font-family: 'Montserrat', sans-serif;
-    font-weight: bold;
-    font-size: 18px;
+    font-weight: lighter;
+    font-size: 15px;
     margin: 50px auto;
 }
 .circle-2 {
     width: 250px;
     height: 250px;
     background-color: #73937E;
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 50%;
     font-family: 'Montserrat', sans-serif;
-    font-weight: bold;
-    font-size: 18px;
+    font-weight: lighter;
+    font-size: 15px;
     margin: 50px auto;
 }
 .circle-3 {
     width: 250px;
     height: 250px;
     background-color: #585563;
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 50%;
     font-family: 'Montserrat', sans-serif;
-    font-weight: bold;
-    font-size: 18px;
+    font-weight: lighter;
+    font-size: 15px;
     margin: 50px auto;
 }
 .circle-4 {
     width: 250px;
     height: 250px;
     background-color: #5B2E48;
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 50%;
     font-family: 'Montserrat', sans-serif;
-    font-weight: bold;
-    font-size: 18px;
+    font-weight: lighter;
+    font-size: 15px;
     margin: 50px auto;
 }
 .circle-5 {
     width: 250px;
     height: 250px;
     background-color:#4d2f21;
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 50%;
     font-family: 'Montserrat', sans-serif;
-    font-weight: bold;
-    font-size: 18px;
+    font-weight: lighter;
+    font-size: 15px;
     margin: 50px auto;
 }
 .circle-6 {
     width: 250px;
     height: 250px;
     background-color: #471323;
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 50%;
     font-family: 'Montserrat', sans-serif;
-    font-weight: bold;
-    font-size: 18px;
+    font-weight: lighter;
+    font-size: 15px;
     margin: 50px auto;
 }
+
 
 .fonts-1 {
     font-family: 'Grenze Gotisch',
